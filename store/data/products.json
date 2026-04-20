@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Smart Watch Series 5",
+      "price": 299.99,
+      "description": "A high-end smart watch for tracking health and fitness.",
+      "category": "Electronics",
+      "image": "https://example.com/images/watch.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Wireless Noise Cancelling Headphones",
+      "price": 199.50,
+      "description": "Experience pure sound with noise-cancelling technology.",
+      "category": "Electronics",
+      "image": "https://example.com/images/headphones.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Organic Coffee Beans (500g)",
+      "price": 18.00,
+      "description": "Premium quality coffee beans, roasted to perfection.",
+      "category": "Food & Beverage",
+      "image": "https://example.com/images/coffee.jpg"
+    }
+  ]
+}
